@@ -7,6 +7,8 @@ The projectq simulator was used here, we can switch this to qiskit.
 Downloaded Li2 through OpenFermion - Latest.ipynb does a couple of things, but has a couple of examples
 of how we generate the integrals from Psi4, which can then be fed into the quantum computing simulator
 
+vqse.py shows how we connect with the IBM hardware
+
 The two components need to be integrated together and cleaned up.
 
 
